@@ -11,3 +11,9 @@ wheels/
 
 # ENV file containing sensitive information
 .env
+
+# Large files
+*.pkl
+*.zip
+data/
+notebook/artifacts/

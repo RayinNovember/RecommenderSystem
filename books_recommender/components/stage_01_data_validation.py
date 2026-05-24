@@ -1,6 +1,5 @@
 import os
 import sys
-import ast 
 import pandas as pd
 import pickle
 from books_recommender.logger.log import logging
