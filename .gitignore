@@ -12,8 +12,12 @@ wheels/
 # ENV file containing sensitive information
 .env
 
-# Large files
+# Large files — add these BEFORE committing any data
 *.pkl
 *.zip
+*.csv
+*.h5
+*.parquet
 data/
+artifacts/
 notebook/artifacts/
